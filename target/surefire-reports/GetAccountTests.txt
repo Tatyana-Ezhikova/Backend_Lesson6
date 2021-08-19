@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: GetAccountTests
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 8.871 s <<< FAILURE! - in GetAccountTests
+getAccountInfoPositiveWithObjectTest  Time elapsed: 0.735 s  <<< ERROR!
+com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: 
+Unrecognized field "error" (class dto.GetAccountResponse$AccountData), not marked as ignorable (13 known properties: "pro_expiration", "user_follow", "bio", "url", "avatar_name", "cover_name", "cover", "avatar", "id", "created", "reputation_name", "is_blocked", "reputation"])
+ at [Source: (String)"{"data":{"error":"Authentication required","request":"\/3\/account\/AnnaSmotrova","method":"GET"},"success":false,"status":401}"; line: 1, column: 19] (through reference chain: dto.GetAccountResponse["data"]->dto.GetAccountResponse$AccountData["error"])
+	at GetAccountTests.getAccountInfoPositiveWithObjectTest(GetAccountTests.java:72)
+

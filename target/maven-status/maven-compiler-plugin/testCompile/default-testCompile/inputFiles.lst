@@ -1,0 +1,13 @@
+/Users/user/IdeaProjects/Backend/src/test/java/GetAccountTests.java
+/Users/user/IdeaProjects/Backend/src/test/java/PostImageTests_negative_huge.java
+/Users/user/IdeaProjects/Backend/src/test/java/PostImageTests_positive_small_file.java
+/Users/user/IdeaProjects/Backend/src/test/java/UpdateImageTests_Positive_with_Auth.java
+/Users/user/IdeaProjects/Backend/src/test/java/UpdateImageTests_Negative_without_Auth.java
+/Users/user/IdeaProjects/Backend/src/test/java/GetImageTest_Positive_With_Auth.java
+/Users/user/IdeaProjects/Backend/src/test/java/PostImageTests_negative_empty_file.java
+/Users/user/IdeaProjects/Backend/src/test/java/PostImageTests_positive_png_file.java
+/Users/user/IdeaProjects/Backend/src/test/java/PostImageTests_negative_txt.java
+/Users/user/IdeaProjects/Backend/src/test/java/GetImageTest_Negative_Without_Auth.java
+/Users/user/IdeaProjects/Backend/src/test/java/PostImageTests_negative_mp3.java
+/Users/user/IdeaProjects/Backend/src/test/java/BaseTest.java
+/Users/user/IdeaProjects/Backend/src/test/java/PostImageTests_positive_jpg.java
