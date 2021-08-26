@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Lesson_5.productTests.PostNegativeTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.017 s <<< FAILURE! - in Lesson_5.productTests.PostNegativeTests
+Lesson_5.productTests.PostNegativeTests  Time elapsed: 0.017 s  <<< ERROR!
+java.lang.NoSuchMethodError: okhttp3.HttpUrl.get(Ljava/lang/String;)Lokhttp3/HttpUrl;
+	at Lesson_5.productTests.PostNegativeTests.beforeAll(PostNegativeTests.java:21)
+
