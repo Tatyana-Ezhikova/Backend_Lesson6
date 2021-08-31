@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: Lesson_5.productTests.GetPositiveTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in Lesson_5.productTests.GetPositiveTests
-Lesson_5.productTests.GetPositiveTests  Time elapsed: 0 s  <<< ERROR!
-java.lang.NoSuchMethodError: okhttp3.HttpUrl.get(Ljava/lang/String;)Lokhttp3/HttpUrl;
-	at Lesson_5.productTests.GetPositiveTests.beforeAll(GetPositiveTests.java:28)
-

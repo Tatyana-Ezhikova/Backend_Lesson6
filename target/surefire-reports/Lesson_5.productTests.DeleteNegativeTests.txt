@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: Lesson_5.productTests.DeleteNegativeTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.835 s <<< FAILURE! - in Lesson_5.productTests.DeleteNegativeTests
-Lesson_5.productTests.DeleteNegativeTests  Time elapsed: 0.833 s  <<< ERROR!
-java.lang.NoSuchMethodError: okhttp3.HttpUrl.get(Ljava/lang/String;)Lokhttp3/HttpUrl;
-	at Lesson_5.productTests.DeleteNegativeTests.beforeAll(DeleteNegativeTests.java:19)
-
